@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sei-frontend/static/css/main.9b589af1.css",
+    "main.js": "/sei-frontend/static/js/main.b225ead1.js",
+    "index.html": "/sei-frontend/index.html",
+    "main.9b589af1.css.map": "/sei-frontend/static/css/main.9b589af1.css.map",
+    "main.b225ead1.js.map": "/sei-frontend/static/js/main.b225ead1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b589af1.css",
+    "static/js/main.b225ead1.js"
+  ]
+}
