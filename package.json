@@ -1,5 +1,5 @@
 {
- "homepage": "https://yamiouali.github.io/sei-frontend/",
+ "homepage": "https://<TON-NOM-UTILISATEUR>.github.io/<NOM-DU-REPO>/",
   "name": "sei-frontend",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+   "deploy": "gh-pages -d build"
 
   },
   "browserslist": {
