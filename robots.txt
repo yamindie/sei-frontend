@@ -1,0 +1,13 @@
+# robots.txt — SELAH EXPERTISE INTERNATIONALE
+# https://yamindie.github.io/sei-frontend/
+
+# Autorise tous les robots de recherche à explorer le site
+User-agent: *
+Allow: /
+
+# Empêche l'indexation des fichiers techniques (bonne pratique)
+Disallow: /*.json$
+Disallow: /*.xml$
+
+# Sitemap : indique aux robots où trouver la liste des pages
+Sitemap: https://yamindie.github.io/sei-frontend/sitemap.xml
